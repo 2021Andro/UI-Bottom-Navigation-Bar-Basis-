@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mi_page_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/text_label_home"/>
+    <item
+        android:id="@+id/mi_page_call"
+        android:enabled="true"
+        android:icon="@drawable/ic_call"
+        android:title="@string/text_label_call"/>
+</menu>

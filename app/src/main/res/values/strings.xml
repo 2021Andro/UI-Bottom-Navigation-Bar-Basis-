@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bottom Navigation Demo</string>
+    <string name="text_label_home">Home</string>
+    <string name="text_label_call">Call</string>
+</resources>
